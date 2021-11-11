@@ -1,6 +1,6 @@
 # Mentoria Eduzz
 
-Vamos atualizar esse repositório ao longo de nossas lives.
+Criação de um painel de campanhas
 
 ## Como Codar
 
